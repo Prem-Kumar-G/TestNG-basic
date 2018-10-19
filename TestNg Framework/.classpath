@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Install Direk/SeleniumComponents/selenium-server-standalone-3.14.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://seleniumhq.github.io/selenium/docs/api/java/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Install Direk/SeleniumComponents/testng-6.14.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

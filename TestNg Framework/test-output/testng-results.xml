@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="95560" started-at="2018-09-25T14:58:17Z" finished-at="2018-09-25T14:59:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="95560" started-at="2018-09-25T14:58:17Z" finished-at="2018-09-25T14:59:53Z">
+      <class name="com.abc.magento.MagentoApp">
+        <test-method status="PASS" signature="posCredentials1()[pri:0, instance:com.abc.magento.MagentoApp@10bbd20a]" name="posCredentials1" duration-ms="37313" started-at="2018-09-25T14:58:17Z" finished-at="2018-09-25T14:58:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posCredentials1 -->
+        <test-method status="PASS" signature="posCredentials2()[pri:0, instance:com.abc.magento.MagentoApp@10bbd20a]" name="posCredentials2" duration-ms="58184" started-at="2018-09-25T14:58:55Z" finished-at="2018-09-25T14:59:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posCredentials2 -->
+      </class> <!-- com.abc.magento.MagentoApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
